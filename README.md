@@ -13,7 +13,7 @@
   <h3>⚡ My Tech Arsenal</h3>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,php,laravel,mysql,git,vscode,idea,android,arduino,html,css,js,bootstrap,postman,figma&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,react,php,laravel,mysql,git,vscode,idea,flutter,arduino,html,css,js,bootstrap,postman,figma&perline=8&theme=dark" />
   </a>
 
 </div>
