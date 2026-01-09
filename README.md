@@ -52,7 +52,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Hasalawa/Hasalawa/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hasalawa/Hasalawa/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%" />
 </div>
 
 <br/>
