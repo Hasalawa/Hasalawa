@@ -8,7 +8,7 @@
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-  <br>
+  <br><br>
 
   <h3>⚡ My Tech Arsenal</h3>
   <br>
@@ -18,17 +18,12 @@
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <!-- <td width="45%" align="center" valign="middle">
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="95%" /> -->
-      <!-- </td> -->
       <td width="55%" align="center" valign="middle">
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" /> -->
-        <!-- <br><br> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
       </td>
     </tr>
@@ -38,10 +33,17 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasalawa&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Hasalawa/Hasalawa/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%" />
 </div>
 
 <br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
