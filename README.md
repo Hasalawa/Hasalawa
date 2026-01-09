@@ -1,12 +1,12 @@
 <div align="center">
  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=7F00FF&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Kehan+Hasalawa!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Java+%7C+React+Native+%7C+PHP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=650&lines=Hi,+I'm+Kehan+Hasalawa!+%F0%9F%91%8B;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A7%A0+Problem+Solver;Java+%7C+React+Native+%7C+PHP" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight_purple" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
   <br><br>
 
@@ -20,21 +20,18 @@
 <br>
 
 <div align="center">
-  <table border="0" width="100%">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+      <td width="45%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="95%" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=midnight-purple&hide_border=true&background=0D1117" />
+      <td width="55%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-
 </div>
 
 <br>
