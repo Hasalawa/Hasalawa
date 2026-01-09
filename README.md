@@ -1,64 +1,62 @@
 <div align="center">
-
+ 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2FD566&background=0D111700&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22)%3B;I'm+Kehan+Hasalawa;Full+Stack+Engineer+%F0%9F%9A%80;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=3366CC&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Kehan+Hasalawa!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Specialist+%F0%9F%93%B1;Java+%7C+React+Native+%7C+PHP" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br>
 
-  <p style="font-size: 16px;">
-    An enthusiastic <b>Software Engineering Undergraduate</b> & <b>Full Stack Developer</b> crafting seamless mobile and web applications. <br>
-    I turn coffee ☕ into clean code 💻.
+  <p>
+     <i>"Building the future, one line of code at a time."</i> 💻 <br>
+     🎓 <b>BSc (Hons) Software Engineering Undergraduate</b> <br>
+     📍 <b>Sri Lanka</b> 🇱🇰
   </p>
+
+  <br>
+
+  <h3>🚀 My Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,react,php,laravel,mysql,git,vscode,idea,android,arduino,html,css,js,bootstrap&perline=7" />
+  </a>
 
 </div>
 
-<br/>
+<br><br>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      
-      ### 🚀 Tech Stack
-      
-      **Languages** <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      
-      **Frameworks & Libraries** <br>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=ocean_blue&hide_border=true&bg_color=00000000" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=ocean_blue&hide_border=true&background=00000000" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=compact&theme=ocean_blue&hide_border=true&bg_color=00000000" />
 
-      **Tools & Databases** <br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</div>
 
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      
-      ### 📊 GitHub Analytics
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-
-    </td>
-  </tr>
-</table>
-
-<br/>
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hasalawa/Hasalawa/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%" />
 </div>
 
-<br/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
+  <br>
   <a href="https://www.linkedin.com/in/kehan-hasalawa-a93027196">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hasalawakehan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
