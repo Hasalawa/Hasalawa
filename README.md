@@ -8,9 +8,10 @@
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-  <br><br>
+  <br>
 
   <h3>⚡ My Tech Arsenal</h3>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,react,php,laravel,mysql,git,vscode,idea,android,arduino,html,css,js,bootstrap,postman,figma&perline=8&theme=dark" />
   </a>
@@ -22,12 +23,12 @@
 <div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="95%" />
-      </td>
+      <!-- <td width="45%" align="center" valign="middle">
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="95%" /> -->
+      <!-- </td> -->
       <td width="55%" align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
-        <br><br>
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" /> -->
+        <!-- <br><br> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
       </td>
     </tr>
