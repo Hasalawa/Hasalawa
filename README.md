@@ -28,13 +28,13 @@
 <div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="55%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" width="100%" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+      <td width="45%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="95%" />
       </td>
-      <td width="45%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasalawa&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&donut_hole_radius=40" width="100%" />
+      <td width="55%" align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Hasalawa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasalawa&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
       </td>
     </tr>
   </table>
