@@ -62,4 +62,7 @@
   <a href="mailto:hasalawakehan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://buymeacoffee.com/hasalawa">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </div>
