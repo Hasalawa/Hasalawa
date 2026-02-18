@@ -2,7 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Hasalawa&label=Profile%20Views&color=0e75b6&style=flat" alt="hasalawa" />
 
-<br><br>
+<br>
+<br>
  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00FF99&center=true&vCenter=true&random=false&width=650&lines=Hi,+I'm+Kehan+Hasalawa!+%F0%9F%91%8B;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A7%A0+Problem+Solver;Java+%7C+React+Native+%7C+PHP" alt="Typing SVG" />
