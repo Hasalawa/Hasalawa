@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Hasalawa&label=Profile%20Views&color=0e75b6&style=flat" alt="hasalawa" />
 
 <br>
+
 <br>
  
   <a href="https://git.io/typing-svg">
@@ -18,7 +19,9 @@
   <br>
 
   <h3>⚡ My Tech Arsenal</h3>
+  
   <br>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,react,php,laravel,mysql,git,vscode,idea,flutter,arduino,html,css,js,bootstrap,postman,figma&perline=8&theme=dark" />
   </a>
