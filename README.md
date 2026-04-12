@@ -33,6 +33,7 @@
 <br>
 
 <div align="center">
+ 
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="55%" align="center" valign="middle">
@@ -40,6 +41,7 @@
       </td>
     </tr>
   </table>
+  
 </div>
 
 <br>
