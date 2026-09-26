@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasalawa&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasalawa&theme=tokyonight" width="100%" />
 </div>
 
 <br>
