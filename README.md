@@ -67,6 +67,14 @@
 
 <div align="center">
  
+  ## 🏆 My Holopin Badges
+
+[![An image of @hasalawa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hasalawa)](https://holopin.io/@hasalawa)
+  
+</div>
+
+<div align="center">
+ 
   <br>
   
   <a href="https://www.linkedin.com/in/kehan-hasalawa-a93027196">
