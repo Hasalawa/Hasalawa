@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Hasalawa&label=Profile%20Views&color=0e75b6&style=flat" alt="hasalawa" />
-
+<img src="https://views-counter.vercel.app/badge?pageId=Hasalawa%2FHasalawa&label=Profile%20Views&leftColor=555555&rightColor=0e75b6" alt="Profile Views" />
 
 <br>
 
