@@ -4,6 +4,7 @@
 
 <br>
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Hasalawa/badge.svg)](https://hub.xerj.org/contributors/Hasalawa)
 
 <br>
  
